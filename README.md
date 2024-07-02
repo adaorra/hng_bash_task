@@ -58,4 +58,4 @@ The script logs all activities to the `/var/log/user_management.log`.
 
 ## Conclusion
 
-This script provides a seamless and  secure method to create user accounts and on a Linux system. Kindly run it with the sudo privileges.
+This script provides a seamless and  secure method to create users and add them to their respective groups while creating a secure password.
